@@ -19,6 +19,7 @@ passkey: 1234567890#12345678901#
 Prerequisites
 * Python 3.9+
 * API Keys from your preferred exchange (stored in `.env`)
+* Auto connect to an already launched mt5 desktop platform
 
 Installation
 1. Clone the repository:
