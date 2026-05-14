@@ -1,14 +1,14 @@
-# Web-Trade-Bot
+# Web-Trade-Bot (Gold and Silver) financial markets
 # Python Algorithmic Trading Bot 📈
 
 A robust, modular automated trading bot designed to execute strategies across various financial markets using Python.
 
 ✨ Features
-Real-time Data:** Live price streaming via WebSockets.
-Backtesting Engine:** Test strategies against historical data before going live.
-Multi-Exchange Support:** Pluggable architecture for different Broker APIs.
-Paper Trading:** Default mode for risk-free testing in a simulated environment.
-Logging & Alerts:** Detailed transaction logs and optional Telegram/Discord notifications.
+Real-time Data: Live price streaming via WebSockets.
+Backtesting Engine: Test strategies against historical data before going live.
+Multi-Exchange Support: Pluggable architecture for different Broker APIs.
+Paper Trading: Default mode for risk-free testing in a simulated environment.
+Logging & Alerts: Detailed transaction logs and optional Telegram/Discord notifications.
 
 ## 🏗️ Architecture
 
