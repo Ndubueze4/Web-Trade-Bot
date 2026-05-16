@@ -24,8 +24,8 @@ Prerequisites
 Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/ndubueze4/web-trade-bot.git](https://github.com/ndubueze4/web-trade-bot.git)
-   cd trade-bot
+   git clone https://github.com/ndubueze4/Web-Trade-Bot.git
+   cd Web-Trade-Bot
 
 ⚠️ RISK DISCLAIMER
 This automated trading bot is a software tool designed to assist with market analysis and trade execution. It does not guarantee profits or successful trading outcomes. Financial markets are highly volatile and involve significant risk.
